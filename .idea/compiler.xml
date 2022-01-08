@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="spring-beans" />
+        <module name="spring-mvc" />
+        <module name="springmvcexample" />
+        <module name="spring-DI" />
+        <module name="spring-annotation" />
+        <module name="spring-java-config" />
+        <module name="spring-autowire" />
+        <module name="spring-stereotype" />
+        <module name="servlet-api" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="servlet-api" target="1.7" />
+      <module name="spring-annotation" target="11" />
+      <module name="spring-autowire" target="11" />
+      <module name="spring-beans" target="11" />
+      <module name="spring-DI" target="11" />
+      <module name="spring-java-config" target="11" />
+      <module name="spring-mvc" target="11" />
+      <module name="spring-stereotype" target="11" />
+      <module name="springmvcexample" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+  https://www.springframework.org/schema/beans/spring-beans.xsd"
+>
+    <!-- services -->
+
+    <!--    Speak abput byname, byType, constructor, no and autowire-candidate-->
+
+    <!--  Constructor based injection  -->
+    <bean id="employeeController" class="uk.co.allianz.training.controller.EmployeeController" autowire="byName"/>
+
+    <bean id="employeeService" class="uk.co.allianz.training.service.EmployeeService" autowire-candidate="false"/>
+
+    <bean id="employeeServiceDuplicate" class="uk.co.allianz.training.service.EmployeeService" autowire-candidate="false"/>
+
+</beans>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/rtp-loose-coupling/rtp-loose-coupling.iml" filepath="$PROJECT_DIR$/rtp-loose-coupling/rtp-loose-coupling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/servlet-api/servlet-api.iml" filepath="$PROJECT_DIR$/servlet-api/servlet-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-DI/spring-DI.iml" filepath="$PROJECT_DIR$/spring-DI/spring-DI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-anotation/spring-annotation.iml" filepath="$PROJECT_DIR$/spring-anotation/spring-annotation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-autowire/spring-autowire.iml" filepath="$PROJECT_DIR$/spring-autowire/spring-autowire.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-beans/spring-beans.iml" filepath="$PROJECT_DIR$/spring-beans/spring-beans.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-java-config/spring-java-config.iml" filepath="$PROJECT_DIR$/spring-java-config/spring-java-config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-mvc/spring-mvc.iml" filepath="$PROJECT_DIR$/spring-mvc/spring-mvc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-stereotype/spring-stereotype.iml" filepath="$PROJECT_DIR$/spring-stereotype/spring-stereotype.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-tutorial.iml" filepath="$PROJECT_DIR$/spring-tutorial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springmvcexample/springmvcexample.iml" filepath="$PROJECT_DIR$/springmvcexample/springmvcexample.iml" />
+    </modules>
+  </component>
+</project>
